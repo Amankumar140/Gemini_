@@ -1,1 +1,1 @@
-#This is clone of Google Gemini
+This is clone of Google Gemini
