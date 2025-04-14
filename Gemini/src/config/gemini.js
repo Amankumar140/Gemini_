@@ -6,7 +6,7 @@ import {
 //   const fs = require("node:fs");
 //   const mime = require("mime-types");
   
-  const apiKey="AIzaSyAphQWK8NtHySV5csjJGVFc1u69z9LfpHg"
+  const apiKey="your api"
   const genAI = new GoogleGenerativeAI(apiKey);
   
   const model = genAI.getGenerativeModel({
